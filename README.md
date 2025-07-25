@@ -1,2 +1,2 @@
 # git-classroom
-- this class room is amazing
+- this class room is amazing.
